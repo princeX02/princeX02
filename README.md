@@ -2,7 +2,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=2E9EF7&center=true&vCenter=true&width=435&lines=Hey+%F0%9F%91%8B+I'm+Prince+Chaudhary;B.Tech+CSE+Student;Data+Science+Enthusiast;Problem+Solver+%26+Coder" alt="Typing SVG" />
 </div>
 
-<h3 align="center">🚀 Turning caffeine into code since 2021 ☕</h3>
+<h3 align="center">🚀 Turning caffeine into code since 2022 ☕</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=princex02&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" />
@@ -14,7 +14,7 @@
 ### 👨‍💻 About Me
 ```yaml
 name: Prince Chaudhary
-location: Bangalore, India 🇮🇳
+location: Bangalore, India 
 education: B.Tech in Computer Science Engineering
 cgpa: 8.2 / 10.0
 current_focus: Data Science & Machine Learning
